@@ -1,2 +1,2 @@
-# GitHubTraining_V2-
+# GitHubTraining_V2
 For GIT Trainings
